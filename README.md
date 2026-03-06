@@ -138,7 +138,7 @@ Restaurant-Sentiment-Analysis
 
 Clone the repository:
 
-git clone https://github.com/yourusername/restaurant-sentiment-analysis.git
+git clone https://github.com/Sriramreddymusukula/Restraunt-sentimental-analysis/tree/main?tab=readme-ov-file
 cd restaurant-sentiment-analysis
 
 Install dependencies:
